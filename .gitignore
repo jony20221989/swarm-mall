@@ -1,0 +1,13 @@
+# Project exclude paths
+/mall-auth/target/
+/mall-common/mall-common-core/target/
+/mall-common/mall-common-datasource/target/
+/mall-common/mall-common-feign/target/
+/mall-common/mall-common-log/target/
+/mall-common/mall-common-mybatis/target/
+/mall-common/mall-common-security/target/
+/mall-common/mall-common-swagger/target/
+/mall-gateway/target/
+/mall-register/target/
+/mall-upms/mall-upms-api/target/
+/mall-upms/mall-upms-biz/target/

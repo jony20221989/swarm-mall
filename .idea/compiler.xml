@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mall-upms-api" />
+        <module name="mall-common-mybatis" />
+        <module name="mall-common-log" />
+        <module name="mall-common-core" />
+        <module name="mall-common-datasource" />
+        <module name="mall-common-feign" />
+        <module name="mall-upms-biz" />
+        <module name="mall-register" />
+        <module name="mall-auth" />
+        <module name="mall-common-swagger" />
+        <module name="mall-common-security" />
+        <module name="mall-gateway" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
